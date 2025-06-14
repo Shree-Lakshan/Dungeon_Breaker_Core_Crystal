@@ -1,0 +1,27 @@
+# C++ build files
+*.o
+*.obj
+*.exe
+*.out
+
+# Save and leaderboard files
+*.dat
+*.csv
+
+# IDE/project config
+*.cbp
+*.depend
+*.layout
+
+# System files
+.DS_Store
+
+# VSCode & CLion
+.vscode/
+.idea/
+
+# Other editor configs
+*.user
+*.sdf
+*.VC.db
+
