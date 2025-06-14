@@ -36,12 +36,6 @@ g++ main.cpp Player.cpp Enemy.cpp -o DungeonBreaker
 
 ---
 
-## 🖼️ Preview
-
-![preview](screenshots/preview.png)
-
----
-
 ## 🧠 Technologies Used
 
 - C++
