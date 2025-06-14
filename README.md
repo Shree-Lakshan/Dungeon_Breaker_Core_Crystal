@@ -1,6 +1,6 @@
 # 🎮 Dungeon Breaker – The Core Crystal
 
-A C++ terminal-based dungeon crawler where you explore an ancient dungeon, battle the sea god Poseidon, collect the Orb of Power, and claim the title of the **Dungeon Breaker**.
+A C++ terminal-based dungeon crawler where you explore an ancient dungeon, battle the ghosts of the dungeon, collect the Orb of Power, and claim the title of the **Dungeon Breaker**.
 
 ---
 
